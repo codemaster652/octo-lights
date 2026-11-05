@@ -2,7 +2,8 @@
     "name": "octo-light",
     "description": "",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "arcade-rpg": "github:riknoll/arcade-rpg#v0.0.13"
     },
     "files": [
         "main.blocks",
