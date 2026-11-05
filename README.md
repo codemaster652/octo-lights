@@ -13,7 +13,10 @@ To edit this repository in MakeCode.
 * 
 
 ## Game
-* The game follows a mage and his/her familiar. It is in an rpg style format with turn based combat and exploration based gameplay. The player can interact with various objects throughout the map and go to towns where they can talk to NPCs.
+* The game follows a mage and his/her familiar.
+* It is in an rpg style format with turn based combat and exploration based gameplay.
+* The player can interact with various objects throughout the map
+* The player can go to towns where they can talk to NPCs receive quests etc.
 
 
 #### Metadata (used for search, rendering)
