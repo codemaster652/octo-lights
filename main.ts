@@ -1,1 +1,6 @@
-
+function EndCombat () {
+	
+}
+function InitCombat () {
+	
+}
